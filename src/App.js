@@ -4,8 +4,8 @@ import home from "./pages/home/home";
 
 function App() {
   return (
-    <div >
-      <home/>
+    <div className="App" >
+     <home/>
     </div>
   );
 }
